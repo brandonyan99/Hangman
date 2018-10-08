@@ -1,1 +1,1 @@
-# Hangman
+Console hangman game
